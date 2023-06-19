@@ -1,0 +1,16 @@
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\bin\Debug\WPF_multi_provider.exe.config
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\bin\Debug\WPF_multi_provider.exe
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\bin\Debug\WPF_multi_provider.pdb
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.csproj.AssemblyReference.cache
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\MainWindow.g.cs
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\App.g.cs
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider_MarkupCompile.cache
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider_MarkupCompile.lref
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\MainWindow.baml
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.g.resources
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.Properties.Resources.resources
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.csproj.GenerateResource.cache
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.csproj.CoreCompileInputs.cache
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.exe
+C:\Users\egork\source\repos\WPF_multi_provider\WPF_multi_provider\obj\Debug\WPF_multi_provider.pdb
